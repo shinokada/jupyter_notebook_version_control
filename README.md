@@ -1,1 +1,3 @@
-# jupyter_notebook_version_control
+#  Jupyter  notebook version control
+
+Dummy repo for the article.
