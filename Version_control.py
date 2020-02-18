@@ -14,8 +14,7 @@
 # ---
 
 x = np.arange(-3, 3, 0.1)
-y = np.arange(-2,2,0.1)
-y = np.sin(x)
+y = np.cos(x)
 plt.plot(x, y)
 plt.show()
 
