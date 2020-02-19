@@ -18,5 +18,3 @@ y = np.arange(-2,2,0.1)
 y = np.cos(x)
 plt.plot(x, y)
 plt.show()
-
-# !jupytext --to py --output ./jupytexts/Version_control.py ./Version_control.ipynb
