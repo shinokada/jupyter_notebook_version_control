@@ -1,7 +1,6 @@
 # ---
 # jupyter:
 #   jupytext:
-#     formats: ipynb,py
 #     text_representation:
 #       extension: .py
 #       format_name: light
@@ -14,9 +13,6 @@
 # ---
 
 x = np.arange(-3, 3, 0.1)
-y = np.arange(-2,2,0.1)
-y = np.cos(x)
+y = np.tan(x)
 plt.plot(x, y)
 plt.show()
-
-# !jupytext --to py --output ./jupytexts/Version_control.py ./Version_control.ipynb
